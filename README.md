@@ -49,7 +49,7 @@ So, We focused on the incorrect answers. Incorrect answers can be generated not 
 Through these methods, we were able to achieve sufficient fine-tuning with 200 images for each sensor.
 
 <p align="center">
-  <img src="resources/DNA.png" :height="700px" width="1000px">
+  <img src="resources/ours.png" :height="700px" width="1000px">
 </p>
 
 #  How to Evaluation?
