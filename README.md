@@ -71,7 +71,7 @@ test.py \
 --model llava \
 ```
 
-When running the closed model, make sure to insert your API KEY into the [**config.py**](https://github.com/top-yun/SPARK/blob/main/config.py) file.
+When running the closed model, make sure to insert your API KEY into the [**config.py**](https://github.com/top-yun/MS-PR/blob/master/config.py) file.
 If you have 1 GPU and want to run the experiment with gpt-4o, you can do the following:
 ```bash
 accelerate launch --config_file utils/ddp_accel_fp16.yaml \
