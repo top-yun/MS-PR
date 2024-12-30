@@ -60,7 +60,7 @@ from datasets import load_dataset
 test_dataset = load_dataset("topyun/MS-PR", split="train")
 ```
 
-Additionally, we have provided two example codes for evaluation: Open Model([**test.py**](https://github.com/top-yun/MS-PR/blob/main/test.py)) and Closed Model([**test_closed_models.py**](https://github.com/top-yun/MS-PR/blob/main/test_closed_models.py)). You can easily run them as shown below.
+Additionally, we have provided two example codes for evaluation: Open Model([**test.py**](https://github.com/top-yun/MS-PR/blob/master/test.py)) and Closed Model([**test_closed_models.py**](https://github.com/top-yun/MS-PR/blob/master/test_closed_models.py)). You can easily run them as shown below.
 
 If you have 4 GPUs and want to run the experiment with llava-1.5-7b, you can do the following:
 ```bash
