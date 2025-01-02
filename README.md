@@ -88,3 +88,14 @@ So, if the model you're evaluating provides unexpected answers (e.g., "'B'ased o
 
 # Citation 
 
+```
+@misc{chung2024visionlanguagemodelstrulyunderstanding,
+      title={Are Vision-Language Models Truly Understanding Multi-vision Sensor?}, 
+      author={Sangyun Chung and Youngjoon Yu and Youngchae Chee and Se Yeon Kim and Byung-Kwan Lee and Yong Man Ro},
+      year={2024},
+      eprint={2412.20750},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2412.20750}, 
+}
+```
