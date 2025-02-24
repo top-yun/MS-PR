@@ -1,6 +1,6 @@
 # Multi-vision Sensor Perception and Reasoning Benchmark
 
-[**🤗 Dataset**](https://huggingface.co/datasets/topyun/MS-PR) | [**📃 Paper**](https://arxiv.org/abs/2412.20750)
+[**🤗 Dataset**](https://huggingface.co/datasets/topyun/MS-PR) | [**📃 Paper**](https://arxiv.org/abs/2412.20750) | [**Train Dataset**](https://drive.google.com/file/d/1z0kzT9iVRGqWNF6Q9X_Zajya2PS-iUbh/view?usp=drive_link)
 
 We present the **Multi-vision Sensor Perception and Reasoning (MS-PR) benchmark**, designed to evaluate Vision-Language Models (VLMs) on sensor-specific reasoning tasks. Alongside this, we propose the **Diverse Negative Attributes (DNA) optimization**, enabling VLMs to perform deep reasoning across multi-vision sensor tasks by addressing the core information gap between images and sensor data. Experimental results demonstrate that DNA optimization significantly enhances the reasoning capabilities of VLMs in multi-vision sensor scenarios.
 
